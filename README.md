@@ -1,7 +1,8 @@
 
-# 🫀 Heart Disease Prediction – AI/ML Internship Task 3
+# 🫀 Heart Disease Prediction – AI/ML Internship Task# 03
 
 ## 📌 Task Objective
+This project is part of my AI/ML internship at DevelopersHub Corporation. 
 Build a binary classification model to predict whether a person is at risk of heart disease based on their health-related attributes. This task focuses on applying machine learning to a real-world medical dataset, performing exploratory analysis, training models, and evaluating their performance.
 
 ## 📊 Dataset Used
